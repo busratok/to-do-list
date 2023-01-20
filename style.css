@@ -31,8 +31,6 @@ form {
   justify-content: space-between;
   align-items: center;
   width: 90%;
-  overflow-y: auto;
-  overflow-x: hidden;
 }
 form input {
   width: 87%;
